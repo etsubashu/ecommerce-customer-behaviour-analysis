@@ -52,4 +52,4 @@ Follow the steps below to set up and run the project successfully on your local 
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ecommerce-customer-behaviour-analysis.git
+git clone https://github.com/etsubashu/ecommerce-customer-behaviour-analysis.git
